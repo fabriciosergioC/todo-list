@@ -1,6 +1,6 @@
 # 📝 To-Do List App
 
-![Preview da To-Do List](screen.jpg) <!-- Adicione uma imagem de preview se tiver -->
+![Preview da To-Do List](/Downloads/screen.jpg) <!-- Adicione uma imagem de preview se tiver -->
 
 Um aplicativo simples de lista de tarefas desenvolvido com HTML, CSS e JavaScript.
 
